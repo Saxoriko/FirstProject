@@ -17,3 +17,6 @@ ageCalculator <- function(x) {
 }
 
 ageCalculator(1985)
+
+# i will make some changesnow
+echo "Hope this works"
